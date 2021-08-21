@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Mortyyka
-- 🌱 I’m currently learning JavaScript, PHP
+- 🌱 I’m currently learning JavaScript, Node.js, Java
